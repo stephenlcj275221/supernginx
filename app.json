@@ -1,5 +1,5 @@
 {
-    "repository": "",
+    "repository": "https://github.com/stephenlcj275221/supernginx",
     "stack": "container",
 	"env": {
       "APP_NAME" : {
