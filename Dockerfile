@@ -1,0 +1,1 @@
+FROM dockerimgnginx/nginx:latest
